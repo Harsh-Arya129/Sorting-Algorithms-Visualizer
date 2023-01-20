@@ -1,7 +1,5 @@
 # Sorting_algos_visualizer
-<br/>
 Creating a simple visualizer for different sorting techniques. For eg.
-<br/>
 1. Selection sort<br/>
 2. Bubble sort<br/>
 3. Insertion sort<br/>
