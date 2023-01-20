@@ -1,5 +1,4 @@
 # Sorting_algos_visualizer
-[Link](https://ankit253.github.io/Sorting_algos_visualizer/)
 <br/>
 Creating a simple visualizer for different sorting techniques. For eg.
 <br/>
